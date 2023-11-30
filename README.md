@@ -12,7 +12,7 @@ I'm Chima. Software Engineer in Ghana, GH 🥘
 ### Open Source Projects
 
 [![Pharaoh](https://github-readme-stats.vercel.app/api/pin/?username=codekeyz&repo=pharaoh)](https://github.com/codekeyz/pharaoh)
-[![gql_gapher](https://github-readme-stats.vercel.app/api/pin/?username=codekeyz&repo=gql_gapher)](https://github.com/codekeyz/pharaoh)
+[![gql_gapher](https://github-readme-stats.vercel.app/api/pin/?username=codekeyz&repo=gql_gapher)](https://github.com/codekeyz/gql_gapher)
 
 ### Github Stats
 
