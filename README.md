@@ -7,7 +7,6 @@ I'm Chima. Software Engineer in Ghana, GH 🥘
 - 🧑‍💻 Join me make Dart worthy of being a reliable backend framework.
 - 💬 Ask me about the [Dart SDK](https://dart.dev) and [Flutter](https://flutter.dev).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: None. I think Javascript without `Types` is pure pain. Ya'll weird 🏄
 
 ### Open Source Projects
 
